@@ -2,11 +2,11 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Md Iftekhar - Enterprise DevOps, Cloud Architecture & AI-Ops" width="100%" />
+  <img src="assets/banner.svg" alt="Md Iftekhar - Enterprise DevOps, Cloud Platforms & AI-Ops" width="100%" />
 </p>
 
 # ⚡ Md Iftekhar
-### Enterprise Cloud Architect • DevSecOps Specialist • AI-Ops & Platform Engineer
+### Enterprise Cloud & DevSecOps Engineer • AI-Ops & Platform Specialist
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devops--iftekhar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devops-iftekhar)
 [![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
@@ -16,7 +16,7 @@
 [![Status](https://img.shields.io/badge/Status-🟢_Open_For_Enterprise_Roles-success?style=for-the-badge)](#-get-in-touch--hire-me)
 
 <p align="center">
-  <b>Architecting Multi-Subscription Enterprise Landing Zones • Zero-Trust CI/CD Automation • Hybrid Cloud Migrations • Autonomous AI-Driven SRE</b>
+  <b>Deploying Multi-Subscription Enterprise Landing Zones • Zero-Trust CI/CD Automation • Hybrid Cloud Migrations • Autonomous AI-Driven SRE</b>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Md Iftekhar — Enterprise Cloud Platform & DevSecOps Engineer
 
 md-iftekhar@cloud-core:~$ cat mission.json
 {
-  "profile": "Enterprise Cloud Architect & DevSecOps Engineer with AI-Ops Integration",
+  "profile": "Enterprise Cloud & DevSecOps Engineer with AI-Ops Integration",
   "architectural_pillars": [
     "Scalable", "Robust", "Secure", "Reliable", "Portable",
     "Governed", "Highly Available", "Cost-Optimized", "Backed-Up", "Monitored", "Compliant"
@@ -60,7 +60,7 @@ md-iftekhar@cloud-core:~$ cat mission.json
 
 ## 🏛️ Enterprise Cloud Architecture & Landing Zones
 
-I architect and deliver **Azure Enterprise Landing Zones (ALZ)** based on Microsoft CAF standards, orchestrating multi-tenant, multi-subscription enterprise topologies with strict separation of duties, isolated network perimeters, and centralized governance.
+I engineer and deploy **Azure Enterprise Landing Zones (ALZ)** based on Microsoft CAF standards, orchestrating multi-tenant, multi-subscription enterprise topologies with strict separation of duties, isolated network perimeters, and centralized governance.
 
 ```
 +---------------------------------------------------------------------------------------------------+
@@ -528,7 +528,7 @@ AppRequests
 
 ## 🤝 Get In Touch • Let's Build Resilient Platforms
 
-I am actively open to **Enterprise DevOps Engineer**, **Cloud Solutions Architect**, **DevSecOps Specialist**, and **Platform Engineering** roles where I can architect scalable, secure, and cost-efficient cloud foundations.
+I am actively open to **Enterprise DevOps Engineer**, **Cloud & DevSecOps Engineer**, **DevSecOps Specialist**, and **Platform Engineering** roles where I can engineer and maintain scalable, secure, and cost-efficient cloud foundations.
 
 <div align="center">
 
