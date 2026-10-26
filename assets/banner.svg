@@ -453,7 +453,7 @@
       <!-- Pulsing Beacon Dot -->
       <circle cx="16" cy="14" r="5" fill="#00FF9D" class="led-g" />
       <text x="30" y="18" fill="#86efac" font-family="'Segoe UI', -apple-system, sans-serif" font-size="10" font-weight="800" letter-spacing="1.5">
-        ● ENTERPRISE CLOUD &amp; DEVSECOPS ENGINEER
+        ● ENTERPRISE CLOUD ARCHITECT &amp; DEVSECOPS SPECIALIST
       </text>
     </g>
 
